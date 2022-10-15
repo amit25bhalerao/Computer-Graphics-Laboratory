@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <GL/glut.h>
 
-
 float x1,x2,x3,x4,y1,y2,y3,y4;
 int fillFlag=0;
 
@@ -62,7 +61,6 @@ void scanfill(float x1,float y1,float x2,float y2,float x3,float y3,float x4,flo
 			draw_pixel(i,y);
 	}
 }
-
 
 void display()
 {
