@@ -1,26 +1,27 @@
 # Computer Graphics Laboratory Programs
+# Computer Graphics Laboratory Programs
 
-|    Program     |           Title of Program            |      Programming Solution       | 
-| :------------: | :-----------------------------------: | :-----------------------------: | 
-|    Prog. 1     | Bresenham’s Line Drawing Algorithm         |          [LAB1][lab1]           |
-|    Prog. 2     |Create and Rotate a Triangle           |          [LAB2][lab2]           | 
-|    Prog. 3     |    Color Cube Transformation Matrix    | [LAB3][lab3]<br>[DATASET][csv1] | 
-|    Prog. 4     | Color Cube Perspective Viewing    | [LAB4][lab4]<br>[DATASET][csv2] | 
-|    Prog. 5     |       Back Propogation Algorithm      |          [LAB5][lab5]           | 
-|    Prog. 6     |       Naïve Bayesian Classifier       | [LAB6][lab6]<br>[DATASET][csv3] | 
-|    Prog. 7     |  K-Means Algorithm Vs. EM Algorithm   |          [LAB7][lab7]           | 
-|    Prog. 8     |     K-Nearest Neighbour Algorithm     |          [LAB8][lab8]           | 
-|    Porg. 9     | Locally Weighted Regression Algorithm | [LAB9][lab9]<br>[DATASET][csv4] | 
+|    Program     |           Title of Program            |   Programming Solution   | 
+| :------------: | :-----------------------------------: | :----------------------: | 
+|    Prog. 1     |  Bresenham’s Line Drawing Algorithm   |       [LAB1][lab1]       |
+|    Prog. 2     |     Create and Rotate a Triangle      |       [LAB2][lab2]       | 
+|    Prog. 3     |   Color Cube Transformation Matrix    |       [LAB3][lab3]       | 
+|    Prog. 4     |   Color Cube Perspective Viewing      |       [LAB4][lab4]       | 
+|    Prog. 5     |     Cohen-Sutherland Algorithm        |       [LAB5][lab5]       | 
+|    Prog. 6     |                Tea Pot                |       [LAB6][lab6]       | 
+|    Prog. 7     |         3D Sierpinski Gasket          |       [LAB7][lab7]       | 
+|    Prog. 8     |        Bezier Curve Algorithm         |       [LAB8][lab8]       | 
+|    Porg. 9     |         Scan Line Algorithm           |       [LAB9][lab9]       | 
 
-[lab1]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program1/main.py
-[lab2]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program2/main.py
-[lab3]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program3/main.py
-[lab4]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program4/main.py
-[lab5]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program5/main.py
-[lab6]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program6/main.py
-[lab7]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program7/main.py
-[lab8]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program8/main.py
-[lab9]: https://github.com/amit25bhalerao/Artificial-Intelligence-and-Machine-Learning-Programming/tree/main/Program9/main.py
+[lab1]: 
+[lab2]: 
+[lab3]: 
+[lab4]: 
+[lab5]: 
+[lab6]:
+[lab7]: 
+[lab8]: 
+[lab9]: 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -55,9 +56,9 @@ Program 7 • Design, develop and implement recursively subdivide a tetrahedron 
 </p>
 
 <p align="justify"> 
-Program 8 • Develop a menu driven program to animate a flag using Bezier Curve algorithm
+Program 8 • Develop a menu driven program to animate a flag using Bezier Curve algorithm.
 </p>
 
 <p align="justify"> 
-Program 9 • Develop a menu driven program to fill the polygon using scan line algorithm 
+Program 9 • Develop a menu driven program to fill the polygon using scan line algorithm.
 </p>
