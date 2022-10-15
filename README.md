@@ -12,7 +12,7 @@
 |    Prog. 8     |        Bezier Curve Algorithm         |       [LAB8][lab8]       | 
 |    Porg. 9     |         Scan Line Algorithm           |       [LAB9][lab9]       | 
 
-[lab1]: 
+[lab1]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program1
 [lab2]: 
 [lab3]: 
 [lab4]: 
