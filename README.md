@@ -1,5 +1,4 @@
 # Computer Graphics Laboratory Programs
-# Computer Graphics Laboratory Programs
 
 |    Program     |           Title of Program            |   Programming Solution   | 
 | :------------: | :-----------------------------------: | :----------------------: | 
