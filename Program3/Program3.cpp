@@ -2,7 +2,6 @@
 #include<math.h>
 #include<GL/glut.h>
 
-
 void DisplayFunc(void)
 {
 	static float alpha = 0;
@@ -88,7 +87,6 @@ void KeyboardFunc(unsigned char key, int x, int y)
   	if ('q' == key || 'Q' == key || 27 == key)
       		exit(0);
 }
-
 
 int main(int argc, char **argv)
 {
