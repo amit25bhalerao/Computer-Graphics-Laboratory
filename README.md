@@ -13,8 +13,8 @@
 |    Porg. 9     |         Scan Line Algorithm           |       [LAB9][lab9]       | 
 
 [lab1]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program1/Program1.cpp
-[lab2]: 
-[lab3]: 
+[lab2]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program2/Program2.cpp
+[lab3]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program3/Program3.cpp
 [lab4]: 
 [lab5]: 
 [lab6]:
