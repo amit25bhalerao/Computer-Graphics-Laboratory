@@ -15,12 +15,12 @@
 [lab1]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program1/Program1.cpp
 [lab2]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program2/Program2.cpp
 [lab3]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program3/Program3.cpp
-[lab4]: 
-[lab5]: 
-[lab6]:
-[lab7]: 
-[lab8]: 
-[lab9]: 
+[lab4]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program4/Program4.cpp
+[lab5]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program5/Program5.cpp
+[lab6]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program6/Program6.cpp
+[lab7]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program7/Program7.cpp
+[lab8]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program8/Program8.cpp
+[lab9]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program9/Program9.cpp
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
