@@ -53,14 +53,14 @@ void display(void)
 void mouse(int btn,int state,int x,int y)
 {
     	if(btn==GLUT_LEFT_BUTTON && state==GLUT_DOWN)
-        		axis=0;
+        	axis=0;
     	if(btn==GLUT_MIDDLE_BUTTON && state==GLUT_DOWN)
-        		axis=1;
+        	axis=1;
     	if(btn==GLUT_RIGHT_BUTTON && state==GLUT_DOWN)
-        		axis=2;
+        	axis=2;
     	theta[axis]+=2.0;
     	if(theta[axis]>360.0)
-        		theta[axis]=-360.0;
+        	theta[axis]=-360.0;
 glutPostRedisplay();
 }
 
@@ -81,9 +81,9 @@ void myReshape(int w,int h)
     	glMatrixMode(GL_PROJECTION);
     	glLoadIdentity();
     	if(w<=h)
-        		glOrtho(-2.0,2.0, -2.0*((GLfloat)h/(GLfloat)w), 2.0*((GLfloat)h/(GLfloat)w),-10.0,10.0);
+        	glOrtho(-2.0,2.0, -2.0*((GLfloat)h/(GLfloat)w), 2.0*((GLfloat)h/(GLfloat)w),-10.0,10.0);
     	else
-        		glOrtho(-2.0*((GLfloat)w)/((GLfloat)h), 2.0*((GLfloat)w/(GLfloat)h),-2.0,2.0,-10.0,10.0);
+        	glOrtho(-2.0*((GLfloat)w)/((GLfloat)h), 2.0*((GLfloat)w/(GLfloat)h),-2.0,2.0,-10.0,10.0);
     	glMatrixMode(GL_MODELVIEW);
 }
 
