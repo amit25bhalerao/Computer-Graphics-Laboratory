@@ -1,4 +1,18 @@
-# Computer Graphics Laboratory Programs
+## Computer Graphics Laboratory Programs
+
+This repository contains a collection of computer graphics programs developed for the Computer Graphics Laboratory course. The programs are designed to provide practical implementation and understanding of fundamental concepts and algorithms in computer graphics.
+
+### Table of Contents
+
+1. Program 1: Bresenham’s Line Drawing Algorithm
+2. Program 2: Create and Rotate a Triangle
+3. Program 3: Color Cube Transformation Matrix
+4. Program 4: Color Cube Perspective Viewing
+5. Program 5: Cohen-Sutherland Algorithm
+6. Program 6: Tea Pot
+7. Program 7: 3D Sierpinski Gasket
+8. Program 8: Bezier Curve Algorithm
+9. Program 9: Scan Line Algorithm
 
 |    Program     |           Title of Program            |   Programming Solution   | 
 | :------------: | :-----------------------------------: | :----------------------: | 
@@ -22,42 +36,18 @@
 [lab8]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program8/Program8.cpp
 [lab9]: https://github.com/amit25bhalerao/Computer-Graphics-Laboratory/tree/main/Program9/Program9.cpp
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Usage
 
-List of Computer Graphics Laboratory Programs included in the repository:
+Each program in this repository can be accessed individually by following the provided links. The programs are implemented using different programming solutions, and the source code for each program is available in the respective directories.
 
-<p align="justify"> 
-Program 1 • Implement Bresenham’s line drawing algorithm for all types of slope. 
-</p>
+To use the programs, you can navigate to the desired program's directory and access the source code. Depending on the specific requirements, you may need to compile and run the code using appropriate compilers or development environments. The programs are primarily written in C++ and utilize libraries such as OpenGL for graphics rendering.
 
-<p align="justify"> 
-Program 2 • Create and rotate a triangle about the origin and a fixed point.
-</p>
+### Contribution
 
-<p align="justify"> 
-Program 3 • Draw a color cube and spin it using OpenGL transformation matrices.
-</p>
+Contributions to this repository are welcome. If you have any improvements or additional programs related to computer graphics, feel free to create a pull request. Please ensure that your contributions adhere to the guidelines and coding standards of the repository.
 
-<p align="justify"> 
-Program 4 • Draw a color cube and allow the user to move the camera suitably to experiment with perspective viewing. 
-</p>
+### License and Disclaimer
 
-<p align="justify"> 
-Program 5 • Clip a lines using Cohen-Sutherland algorithm.
-</p>
+The programs in this repository are provided under the [MIT License](https://opensource.org/licenses/MIT). However, please note that while the programs have been tested, they are provided as-is, without any warranty. The repository owner and contributors will not be liable for any damages or losses arising from the use of these programs.
 
-<p align="justify"> 
-Program 6 • To draw a simple shaded scene consisting of a tea pot on a table. Define suitably the position and properties of the light source along with the properties of the surfaces of the solid object used in the scene.
-</p>
-
-<p align="justify"> 
-Program 7 • Design, develop and implement recursively subdivide a tetrahedron to form 3D sierpinski gasket. The number of recursive steps is to be specified by the user.
-</p>
-
-<p align="justify"> 
-Program 8 • Develop a menu driven program to animate a flag using Bezier Curve algorithm.
-</p>
-
-<p align="justify"> 
-Program 9 • Develop a menu driven program to fill the polygon using scan line algorithm.
-</p>
+It is recommended to use these programs for learning purposes and to verify their functionality in a controlled environment before deploying them to production or real-world applications.
